@@ -7,21 +7,19 @@ This project delves into the world of culinary reviews, dissecting customer feed
 ## How to Install and Run the Project
 This section provides a guide to set up the project environment:
 
-- Clone the repo: git clone https://github.com/yourusername/OpenTable-Review-Insighter.git
+- Clone the repo: git clone https://github.com/yourusername/OpenTable-Review-Analysis.git
 - Install required packages: pip install -r requirements.txt
 - Run the scraper: python scraper.py
 - Execute the data processor: python data_processor.py
 - Perform sentiment analysis: python sentiment_analysis.py
 - Aspect analysis: python aspect_analysis.py
-- Launch Tableau Desktop and open the .twbx file included in the repo.
 - How to Use the Project
 - To utilize this project:
 
 ## Review the code for understanding the data extraction and processing phases.
 Explore the CSV files to see the raw and processed data.
 Open the Tableau workbook to interact with the visualizations.
-Embed Tableau visuals into web pages using the links provided in the 'visuals' folder.
-Visuals
+Embed Tableau visuals.
 
 ## Interactive dashboards provide a snapshot of the analysis. Find the embedded Tableau links below:
 
